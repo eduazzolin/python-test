@@ -17,4 +17,9 @@ pip install pytest
 python -m pytest .\test_my_functions.py
 ```
 
+# assert
+``assert`` é uma declaração que avalia se uma expressão é verdadeira ou falsa. 
+- Se a expressão for verdadeira, nada acontece. 
+- Se a expressão for falsa, uma exceção ``AssertionError`` é levantada.
+
 
